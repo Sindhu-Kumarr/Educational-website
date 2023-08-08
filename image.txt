@@ -1,0 +1,6 @@
+<html>
+<body bgcolor="tomato">
+<img src="d:/kno.html" height=120 width=280 align="center">
+</img>
+</body>
+</html>

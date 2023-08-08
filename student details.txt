@@ -1,0 +1,32 @@
+<body bgcolor="tomato">
+<table border=3  align=center height=500 width=800>
+<tr bgcolor="lime">
+<th><center>Serial number</center></th> 
+<th><center>Student name</center></th>
+<th><center>Course name</center></th>
+<th><center>location</center></th>
+<th><center>Contact No.</center></th>
+</tr>
+<tr bgcolor="orange">
+<td><center>1</center></td>
+<td><center>Sindhu</center></td>
+<td><center>Javascript</center></td>
+<td><center>cheyyar</center></td>
+<td><center>8610640498</center></td>
+</tr>
+<tr bgcolor="blue">
+<td><center>2</center></td>
+<td><center>Saveetha</center></td>
+<td><center>Java</center></td>
+<td><center>cheyyur</center></td>
+<td><center>9443744130</center></td>
+</tr>
+<tr bgcolor="yellow">
+<td><center>3</center></td>
+<td><center>sangavi</center></td>
+<td><center>Tally</center></td>
+<td><center>guindy</center></td>
+<td><center>8610115687</center></td>
+</tr>
+</table>
+

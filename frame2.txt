@@ -1,0 +1,6 @@
+
+<frameset cols="20%,60%,20%">
+<frame src="d:/image.html">
+<frame src="d:/text.html">
+<frame src="d:/image.html">
+</frameset>

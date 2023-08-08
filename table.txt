@@ -1,0 +1,24 @@
+<body bgcolor="tomato">
+<table border=8  align=center height=500 width=800>
+<tr bgcolor="orange">
+<th> <center>Courses available </center></th>
+<th><center> Courses fees structure</center></th>
+<th> <center>Duration</center></th>
+</tr>
+<tr bgcolor="yellow">
+<td> <center>Java</center></td>
+<td><center> 6000/-</center></td>
+<td><center> 3months</td>
+</tr>
+<tr bgcolor="lightgreen">
+<td><center>Python</center></td>
+<td> <center>7000/-</center></td>
+<td> <center>4 months</center></td>
+</tr>
+<tr bgcolor="red">
+<td><center>Tally</center></td>
+<td><center> 3000/-</center></td>
+<td><center> 2months</center></td>
+</tr>
+</table>
+

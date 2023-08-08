@@ -1,0 +1,6 @@
+<html>
+
+<marquee direction="down" bgcolor="tomato" behaviour="scroll" height="125" loop=50>
+<h1><center> BSS COMPUTER COLLEGE</center><h1>
+</body>
+</html>

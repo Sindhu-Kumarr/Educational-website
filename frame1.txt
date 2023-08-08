@@ -1,0 +1,4 @@
+<frameset rows="20%,80%">
+<frame src="d:/frame2.html">
+<frame src="d:/courses.html">
+</frameset>

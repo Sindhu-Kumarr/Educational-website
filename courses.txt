@@ -1,0 +1,4 @@
+<frameset cols="25%,60%">
+<frame src="d:\anchor tag.html" name="f1">
+<frame src="d:\institute.html" name="f2">
+</frameset>

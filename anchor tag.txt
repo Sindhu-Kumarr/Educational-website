@@ -1,0 +1,8 @@
+<body bgcolor="tomato" text="blue">
+<h1> <center><u>Courses</center></u>
+<ul type="square">
+<li><center><a href="d:/table.html" target="f2">Course details </center> </a><br><br>
+<li><center><a href="d:/frame1.html" target="f2">Web design</center></a><br><br>
+<li><center><a href="d:/student details.html" target="f2">Student details</center> </a><br><br>
+<li><center><a href="d:/institute.html"target="f2">Home page </center></a></h1></ul>
+</body>
